@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Coder-Teddy
 - 👀 I’m interested in design
-- 🌱 I’m currently learning BTech IT
 - 📫 How to reach me @coder_teddy
 
 <!---
