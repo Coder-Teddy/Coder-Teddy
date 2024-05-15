@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Coder-Teddy
-- 👀 I’m interested in design
-- 📫 How to reach me @coder_teddy
+- Let Me Cook👨🏽‍🍳
 
 <!---
 Coder-Teddy/Coder-Teddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
